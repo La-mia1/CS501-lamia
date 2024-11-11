@@ -1,20 +1,20 @@
 # Q1: Create a variable named `age` and assign your age to it.
-age = 25
+age = 21
 
 # Q2: Create two variables, `city` and `country`, and assign your city and country to them.
-city = "Bouinan"
-country = "Algérie"
+city = "Algeries"
+country = "Algeria"
 
 # Q3: Combine `city` and `country` into a single string `location` and print it.
 location = f"{city}, {country}"
 print(location)
 
 # Q4: Change the value of `age` to a different number and print it.
-age = 30
+age = 25
 print(age)
 
 # Q5: Create a variable `height` and assign a float value representing your height in meters.
-height = 1.75
+height = 1.74
 
 # Q6: Check and print the data type of the `height` variable using the `type()` function.
 print(type(height))
@@ -24,8 +24,8 @@ is_student = True
 print(is_student)
 
 # Q8: Create a variable `name` with your first name using double quotes and then another variable `surname` with your last name using single quotes. Combine them into `full_name`.
-name = "John"
-surname = 'Doe'
+name = "Lamia"
+surname = 'Mia'
 full_name = f"{name} {surname}"
 print(full_name)
 
